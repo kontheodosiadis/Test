@@ -16,4 +16,5 @@ test README file
 Here is a simple equation: $E=mc^2$
 
 ## Testing image import
+![Diceball](Screenshot_20250515_202229_Gallery.jpg)
 
