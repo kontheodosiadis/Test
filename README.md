@@ -13,4 +13,7 @@ test README file
 3. a numbered
 4. list
 
+Here is a simple equation: $E=mc^2$
+
 ## Testing image import
+
